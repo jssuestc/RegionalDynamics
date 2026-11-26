@@ -1,0 +1,9 @@
+# Locally supplied FreeSurfer template files
+/fsaverage/
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+*.asv
+.Rhistory
+.Rproj.user/
